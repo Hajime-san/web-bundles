@@ -3,6 +3,8 @@
 
 [https://github.com/WICG/webpackage/tree/master/go/bundle](https://github.com/WICG/webpackage/tree/master/go/bundle)
 
+[https://www.npmjs.com/package/wbn](https://www.npmjs.com/package/wbn)
+
 # generate .wbn
 
 ## with Golang
